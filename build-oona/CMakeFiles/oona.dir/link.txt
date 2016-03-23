@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/oona.dir/main.cpp.o  -o oona -rdynamic 

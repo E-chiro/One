@@ -1,0 +1,1 @@
+/home/ikarimov/Документы/cpp/Oona/build-oona/CMakeFiles/oona.dir
